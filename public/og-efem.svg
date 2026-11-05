@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <!-- Fundo Creme Oficial EFEM -->
+  <rect width="1200" height="630" fill="#f4f1e4"/>
+  <rect x="24" y="24" width="1152" height="582" rx="32" fill="none" stroke="#004E82" stroke-width="6" opacity="0.25"/>
+
+  <!-- Ilustração EFEM à Esquerda -->
+  <g transform="translate(80, 65) scale(1.15)">
+    <ellipse cx="169" cy="145" rx="25" ry="30" fill="#8CC63F" />
+    <path d="M 131 268 C 131 182, 207 182, 207 278 Z" fill="#8CC63F" />
+
+    <ellipse cx="343" cy="145" rx="25" ry="30" fill="#F15A24" />
+    <path d="M 305 278 C 305 182, 381 182, 381 268 Z" fill="#F15A24" />
+
+    <ellipse cx="256" cy="98" rx="33" ry="41" fill="#FFCC00" />
+    <path d="M 196 322 C 196 155, 316 155, 316 322 Z" fill="#FFCC00" />
+
+    <path
+      d="M 256 410
+         L 112 282
+         L 112 319
+         L 42 256
+         L 112 190
+         L 112 228
+         Q 192 258 256 345
+         Q 320 258 400 228
+         L 400 190
+         L 470 256
+         L 400 319
+         L 400 282
+         Z"
+      fill="#004E82"
+    />
+  </g>
+
+  <!-- Texto EFEM à Direita -->
+  <g transform="translate(640, 235)" text-anchor="start">
+    <text x="0" y="0" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="148" fill="#004E82" letter-spacing="-3">EFEM</text>
+    <text x="4" y="62" font-family="Arial, sans-serif" font-weight="600" font-size="36" fill="#004E82">ESCOLA DE FORMAÇÃO</text>
+    <text x="4" y="108" font-family="Arial, sans-serif" font-weight="600" font-size="36" fill="#004E82">DE EDUCADORES MUNICIPAIS</text>
+    <text x="4" y="158" font-family="Arial, sans-serif" font-weight="800" font-size="38" fill="#004E82">Campos dos Goytacazes - RJ</text>
+    <text x="4" y="210" font-family="Arial, sans-serif" font-weight="700" font-size="22" fill="#52657a">SEDUCT · PAE · Formações, Alinhamentos e Agenda Inteligente</text>
+  </g>
+</svg>

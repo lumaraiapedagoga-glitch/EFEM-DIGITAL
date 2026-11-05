@@ -1,0 +1,8 @@
+{
+  "name": "Remix EFEM - SEDUCT Campos dos Goytacazes",
+  "description": "Aplicativo oficial da Escola de Formação de Educadores da Rede Municipal de Campos dos Goytacazes (EFEM / SEDUCT) com formações, Alinhamentos  e agenda inteligente. Seu canal de comunicação e interatividade com a EFEM. permitindo o acompanhamento em tempo real de cursos e eventos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

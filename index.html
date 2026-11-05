@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EFEM - SEDUCT Campos dos Goytacazes</title>
+    <meta name="description" content="Aplicativo oficial da Escola de Formação de Educadores da Rede Municipal de Campos dos Goytacazes (EFEM / SEDUCT) com formações, Alinhamentos  e agenda inteligente. Seu canal de comunicação e interatividade com a EFEM. permitindo o acompanhamento em tempo real de cursos e eventos." />
+    <meta property="og:title" content="EFEM - SEDUCT Campos dos Goytacazes" />
+    <meta property="og:description" content="Aplicativo oficial da Escola de Formação de Educadores da Rede Municipal de Campos dos Goytacazes (EFEM / SEDUCT) com formações, Alinhamentos  e agenda inteligente. Seu canal de comunicação e interatividade com a EFEM. permitindo o acompanhamento em tempo real de cursos e eventos." />
+    <meta property="og:site_name" content="EFEM - SEDUCT Campos dos Goytacazes" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="/og-efem.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Logo EFEM - Escola de Formação de Educadores Municipais de Campos dos Goytacazes - RJ" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="EFEM - SEDUCT Campos dos Goytacazes" />
+    <meta name="twitter:description" content="Aplicativo oficial da Escola de Formação de Educadores da Rede Municipal de Campos dos Goytacazes (EFEM / SEDUCT) com formações, Alinhamentos  e agenda inteligente. Seu canal de comunicação e interatividade com a EFEM. permitindo o acompanhamento em tempo real de cursos e eventos." />
+    <meta name="twitter:image" content="/og-efem.png" />
+    <meta name="theme-color" content="#004E82" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="EFEM SEDUCT" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/pwa-192x192.png" />
+    <link rel="icon" type="image/png" sizes="512x512" href="/pwa-512x512.png" />
+    <link rel="icon" type="image/svg+xml" href="/icon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="image_src" href="/og-efem.png" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "EFEM - SEDUCT Campos dos Goytacazes",
+        "alternateName": "Escola de Formação de Educadores Municipais - Campos dos Goytacazes",
+        "applicationCategory": "EducationalApplication",
+        "operatingSystem": "All",
+        "image": "/pwa-512x512.png",
+        "description": "Aplicativo oficial da Escola de Formação de Educadores da Rede Municipal de Campos dos Goytacazes (EFEM / SEDUCT) com formações, Alinhamentos e agenda inteligente."
+      }
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;600&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <!-- VLibras Widget Oficial do Governo Federal para Acessibilidade em Libras -->
+    <div vw="true" class="enabled">
+      <div vw-access-button="true" class="active"></div>
+      <div vw-plugin-wrapper="true">
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+    <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+    <script>
+      window.addEventListener('DOMContentLoaded', function() {
+        if (window.VLibras) {
+          new window.VLibras.Widget('https://vlibras.gov.br/app');
+        }
+      });
+    </script>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+

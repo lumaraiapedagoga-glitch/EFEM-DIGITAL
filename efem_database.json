@@ -1,0 +1,760 @@
+{
+  "accessLogs": [
+    {
+      "id": "acc-1792069312458",
+      "timestamp": "2026-10-15T13:01:52.458Z",
+      "page": "Logo EFEM Topo -> Aba EFEM",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1792067907817",
+      "timestamp": "2026-10-15T12:38:27.817Z",
+      "page": "Entrada pela Logo Inicial -> Aba EFEM",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1792067826448",
+      "timestamp": "2026-10-15T12:37:06.448Z",
+      "page": "Entrada pela Logo Inicial -> Aba EFEM",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791982700640",
+      "timestamp": "2026-10-14T12:58:20.640Z",
+      "page": "Aba Formações -> Diretor e Diretor Adjunto - Creche",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791982175622",
+      "timestamp": "2026-10-14T12:49:35.622Z",
+      "page": "Aba EFEM",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791982169290",
+      "timestamp": "2026-10-14T12:49:29.290Z",
+      "page": "Aba Formação e Alinhamento (Calendário 2027)",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791982162613",
+      "timestamp": "2026-10-14T12:49:22.613Z",
+      "page": "Formações -> Diretor e Diretor Adjunto / Creche",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791982136277",
+      "timestamp": "2026-10-14T12:48:56.277Z",
+      "page": "Formações -> Auxiliar de Secretaria",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791982129181",
+      "timestamp": "2026-10-14T12:48:49.181Z",
+      "page": "Formações -> EF Anos Finais / Educação Física",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791982126117",
+      "timestamp": "2026-10-14T12:48:46.117Z",
+      "page": "Formações -> EF Anos Finais / Arte",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791982124166",
+      "timestamp": "2026-10-14T12:48:44.166Z",
+      "page": "Formações -> EF (Anos Iniciais) / 1º e 2º anos de escolaridade",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791982123101",
+      "timestamp": "2026-10-14T12:48:43.101Z",
+      "page": "Formações -> EF Anos Finais / Arte",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791982120437",
+      "timestamp": "2026-10-14T12:48:40.437Z",
+      "page": "Formações -> EF (Anos Iniciais) / 3º, 4º e 5º anos de escolaridade",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791982118542",
+      "timestamp": "2026-10-14T12:48:38.542Z",
+      "page": "Formações -> EF (Anos Iniciais) / Turmas de nivelamento",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791982116478",
+      "timestamp": "2026-10-14T12:48:36.478Z",
+      "page": "Formações -> EF (Anos Iniciais) / 1º e 2º anos de escolaridade",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791982112148",
+      "timestamp": "2026-10-14T12:48:32.148Z",
+      "page": "Formações -> Educação Especial Inclusiva",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791982108567",
+      "timestamp": "2026-10-14T12:48:28.567Z",
+      "page": "Formações -> Escola do Campo, das Águas e das Florestas",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791982102329",
+      "timestamp": "2026-10-14T12:48:22.329Z",
+      "page": "Aba Formações -> Educação Infantil - Professor(a) Creche",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791982091601",
+      "timestamp": "2026-10-14T12:48:11.601Z",
+      "page": "Entrada pela Logo Inicial -> Aba EFEM",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791981237183",
+      "timestamp": "2026-10-14T12:33:57.183Z",
+      "page": "Entrada pela Logo Inicial -> Aba EFEM",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791981224418",
+      "timestamp": "2026-10-14T12:33:44.418Z",
+      "page": "Aba EFEM",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791981102880",
+      "timestamp": "2026-10-14T12:31:42.880Z",
+      "page": "Aba Minha Agenda Inteligente",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791981101227",
+      "timestamp": "2026-10-14T12:31:41.227Z",
+      "page": "Aba Formação e Alinhamento (Calendário 2027)",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791981096334",
+      "timestamp": "2026-10-14T12:31:36.334Z",
+      "page": "Aba Formações -> Educação Especial Inclusiva",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791981086060",
+      "timestamp": "2026-10-14T12:31:26.060Z",
+      "page": "Aba EFEM",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791980842776",
+      "timestamp": "2026-10-14T12:27:22.776Z",
+      "page": "Aba Formações -> Educação Especial Inclusiva",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791980760906",
+      "timestamp": "2026-10-14T12:26:00.906Z",
+      "page": "Aba Formação e Alinhamento (Calendário 2027)",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791980703346",
+      "timestamp": "2026-10-14T12:25:03.346Z",
+      "page": "Formações -> Educação Especial Inclusiva",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791980701216",
+      "timestamp": "2026-10-14T12:25:01.217Z",
+      "page": "Formações -> Diretor e Diretor Adjunto / Creche",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791980699618",
+      "timestamp": "2026-10-14T12:24:59.618Z",
+      "page": "Formações -> Educação de Jovens e Adultos / 1ª e 2ª fases",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791980697817",
+      "timestamp": "2026-10-14T12:24:57.817Z",
+      "page": "Formações -> Educação Infantil / Professor(a) Creche",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791980691865",
+      "timestamp": "2026-10-14T12:24:51.865Z",
+      "page": "Formações -> EF (Anos Iniciais) / 1º e 2º anos de escolaridade",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791980675872",
+      "timestamp": "2026-10-14T12:24:35.872Z",
+      "page": "Aba Formações -> Educação Infantil - Professor(a) Creche",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791980664719",
+      "timestamp": "2026-10-14T12:24:24.719Z",
+      "page": "Entrada pela Logo Inicial -> Aba EFEM",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791979669291",
+      "timestamp": "2026-10-14T12:07:49.291Z",
+      "page": "Aba Formações -> Ensino Fundamental (anos iniciais)",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1791979666154",
+      "timestamp": "2026-10-14T12:07:46.154Z",
+      "page": "Entrada pela Logo Inicial -> Aba EFEM",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "acc-1",
+      "timestamp": "2026-10-08T08:15:00.000Z",
+      "page": "Capa -> EFEM Institucional",
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X)",
+      "sipaeEmail": "maria.silva@edu.campos.rj.gov.br"
+    },
+    {
+      "id": "acc-2",
+      "timestamp": "2026-10-08T08:42:00.000Z",
+      "page": "Formações -> Gestores (PDDE)",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+      "sipaeEmail": "carlos.gestor@edu.campos.rj.gov.br"
+    },
+    {
+      "id": "acc-3",
+      "timestamp": "2026-10-08T09:10:00.000Z",
+      "page": "Formações -> Ensino Fundamental (anos iniciais) - Evento #3870",
+      "userAgent": "Mozilla/5.0 (Linux; Android 14)",
+      "sipaeEmail": "ana.pedagoga@edu.campos.rj.gov.br"
+    }
+  ],
+  "sipaeLogins": [
+    {
+      "id": "sipae-1793880895903",
+      "email": "maria.teste@edu.campos.rj.gov.br",
+      "name": "Professora Maria",
+      "role": "Pedagógica",
+      "schoolUnit": "Inscrição Direta Portal SEDUCT / SIPAE",
+      "loggedAt": "2026-11-05T12:14:55.903Z"
+    },
+    {
+      "id": "sipae-1",
+      "email": "maria.silva@edu.campos.rj.gov.br",
+      "name": "Maria Clara da Silva",
+      "role": "Professora - Ensino Fundamental (Anos Iniciais)",
+      "schoolUnit": "E.M. Castelo Branco",
+      "loggedAt": "2026-10-08T08:15:22.000Z"
+    },
+    {
+      "id": "sipae-2",
+      "email": "carlos.gestor@edu.campos.rj.gov.br",
+      "name": "Carlos Eduardo Rangel",
+      "role": "Diretor Escolar (Gestor)",
+      "schoolUnit": "C.M. 29 de Maio",
+      "loggedAt": "2026-10-08T08:40:10.000Z"
+    },
+    {
+      "id": "sipae-3",
+      "email": "ana.pedagoga@edu.campos.rj.gov.br",
+      "name": "Ana Beatriz Peixoto",
+      "role": "Pedagoga",
+      "schoolUnit": "E.M. Frederico Paes",
+      "loggedAt": "2026-10-08T09:05:44.000Z"
+    },
+    {
+      "id": "sipae-4",
+      "email": "lumaraiapedagoga@gmail.com",
+      "name": "Lu Maraia (Coordenação Pedagógica)",
+      "role": "Pedagoga / Formadora EFEM",
+      "schoolUnit": "SEDUCT / EFEM Campos",
+      "loggedAt": "2026-10-08T09:20:00.000Z"
+    }
+  ],
+  "enrollments": [
+    {
+      "id": "enr-1793880895903",
+      "courseId": "test-1",
+      "courseTitle": "Formação Teste SIPAE",
+      "category": "Pedagógica",
+      "seductUrl": "https://sipae.campos.rj.gov.br/?p=eventos",
+      "eventDate": "2026-11-20",
+      "eventTime": "09:00",
+      "location": "Auditório EFEM",
+      "participantName": "Professora Maria",
+      "sipaeEmail": "maria.teste@edu.campos.rj.gov.br",
+      "enrolledAt": "2026-11-05T12:14:55.903Z"
+    },
+    {
+      "id": "enr-1",
+      "courseId": "3870",
+      "courseTitle": "Saberes das Águas e Memórias da Terra",
+      "category": "Ensino Fundamental (anos iniciais)",
+      "seductUrl": "https://seduct.campos.rj.gov.br/?p=eventos&id=3870",
+      "eventDate": "2026-09-28",
+      "eventTime": "08:30",
+      "location": "Casa de Cultura José Cândido de Carvalho",
+      "participantName": "Maria Clara da Silva",
+      "sipaeEmail": "maria.silva@edu.campos.rj.gov.br",
+      "enrolledAt": "2026-10-08T08:18:00.000Z"
+    },
+    {
+      "id": "enr-2",
+      "courseId": "3886",
+      "courseTitle": "Caminhos Compartilhantes com o PDDE em Campos dos Goytacazes - RJ",
+      "category": "Gestores",
+      "seductUrl": "https://seduct.campos.rj.gov.br/?p=eventos&id=3886",
+      "eventDate": "2026-10-30",
+      "eventTime": "08:00",
+      "location": "Auditório do Colégio Salesiano - Av. Dom Bosco, 49 - Parque Tamandaré",
+      "participantName": "Carlos Eduardo Rangel",
+      "sipaeEmail": "carlos.gestor@edu.campos.rj.gov.br",
+      "enrolledAt": "2026-10-08T08:45:00.000Z"
+    },
+    {
+      "id": "enr-3",
+      "courseId": "alinhamento-2027-fev",
+      "courseTitle": "Alinhamento Pedagógico 2027 - Ensino Fundamental Anos Iniciais",
+      "category": "Formação e Alinhamento",
+      "seductUrl": "https://pae.seduct.campos.rj.gov.br/efem/",
+      "eventDate": "2027-02-22",
+      "eventTime": "08:30",
+      "location": "Polo Formativo EFEM / SEDUCT",
+      "participantName": "Ana Beatriz Peixoto",
+      "sipaeEmail": "ana.pedagoga@edu.campos.rj.gov.br",
+      "enrolledAt": "2026-10-08T09:12:00.000Z"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "apt-1793880898952",
+      "title": "Alinhamento Curricular EFEM",
+      "date": "2026-11-25",
+      "time": "14:00",
+      "category": "Planejamento Docente",
+      "email": "maria.teste@edu.campos.rj.gov.br",
+      "notifyPhone": true,
+      "notify24hSent": false,
+      "notify1hSent": false,
+      "isAutoFromCourse": false,
+      "notes": "Reunião pedagógica de alinhamento",
+      "createdAt": "2026-11-05T12:14:58.952Z"
+    },
+    {
+      "id": "apt-1793880895931",
+      "title": "[Inscrição SEDUCT] Formação Teste SIPAE",
+      "date": "2026-11-20",
+      "time": "09:00",
+      "category": "Pedagógica",
+      "email": "maria.teste@edu.campos.rj.gov.br",
+      "notifyPhone": true,
+      "notify24hSent": false,
+      "notify1hSent": false,
+      "isAutoFromCourse": true,
+      "courseUrl": "https://sipae.campos.rj.gov.br/?p=eventos",
+      "notes": "Inscrição sincronizada automaticamente. Local: Auditório EFEM. Lembrete ativo para 1 dia (24h) e 1 hora de antecedência.",
+      "createdAt": "2026-11-05T12:14:55.931Z"
+    },
+    {
+      "id": "apt-1",
+      "title": "Formação: Caminhos Compartilhantes com o PDDE em Campos dos Goytacazes - RJ",
+      "date": "2026-10-30",
+      "time": "08:00",
+      "category": "Gestores",
+      "email": "",
+      "notifyPhone": true,
+      "notify24hSent": false,
+      "notify1hSent": false,
+      "isAutoFromCourse": true,
+      "courseUrl": "https://seduct.campos.rj.gov.br/?p=eventos&id=3886",
+      "notes": "Local: Auditório do Colégio Salesiano - Av. Dom Bosco, 49 - Parque Tamandaré (8h às 17h30 - Total 8h)",
+      "createdAt": "2026-10-08T08:45:00.000Z"
+    },
+    {
+      "id": "apt-2",
+      "title": "Saberes das Águas e Memórias da Terra",
+      "date": "2026-09-28",
+      "time": "08:30",
+      "category": "Ensino Fundamental (anos iniciais)",
+      "email": "",
+      "notifyPhone": true,
+      "notify24hSent": false,
+      "notify1hSent": false,
+      "isAutoFromCourse": true,
+      "courseUrl": "https://seduct.campos.rj.gov.br/?p=eventos&id=3870",
+      "notes": "Inscrição vinculada automaticamente pelo portal de Eventos SEDUCT (ID 3870 - Casa de Cultura José Cândido de Carvalho). Lembrete configurado para 24h e 1h antes.",
+      "createdAt": "2026-10-08T08:18:00.000Z"
+    }
+  ],
+  "seductFeed": [
+    {
+      "id": "evt-3886",
+      "eventId": "3886",
+      "title": "Caminhos Compartilhantes com o PDDE em Campos dos Goytacazes - RJ",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3886). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/2_15.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3886",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3892",
+      "eventId": "3892",
+      "title": "Caminhos Compartilhantes com o PDDE em Campos dos Goytacazes - RJ - Sensibilização",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3892). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/1_24.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3892",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3922",
+      "eventId": "3922",
+      "title": "Clube de Ciências: Construindo e Compartilhando Roteiros Experimentais",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3922). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/1_23.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3922",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3921",
+      "eventId": "3921",
+      "title": "Oficina Territórios Vivos - I Workshop de Arte, Cultura e Educação Criativa",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3921). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/CARDS-ROTATIVOS-COM-MATHEUS_10.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3921",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3920",
+      "eventId": "3920",
+      "title": "Acervo Digital de História Contemporânea: Fontes Históricas na Prática da Sala de Aula",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3920). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/CARDS-ROTATIVOS-COM-MATHEUS-3.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3920",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3906",
+      "eventId": "3906",
+      "title": "1º Seminário Tecendo Caminhos da Inclusão Social",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3906). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/Tecendo-Caminhos-da-Inclusao.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3906",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3917",
+      "eventId": "3917",
+      "title": "(Anti)capacitismo no Chão da Escola: relatos, conceitos e experiências",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3917). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/CARDS-ROTATIVOS-COM-MATHEUS-2.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3917",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3907",
+      "eventId": "3907",
+      "title": "Alfalibras: Práticas Pedagógicas Para os Alunos Surdos",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3907). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/CARDS-ROTATIVOS-COM-MATHEUS_8.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3907",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3902",
+      "eventId": "3902",
+      "title": "Entre o Plugado e o Desplugado: Computação e Inclusão na Sala de Recursos",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3902). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/Copia-de-CARD-S-FORMACOES-2026_2.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3902",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3919",
+      "eventId": "3919",
+      "title": "Capacitação em Primeiros Socorros: Adequação à Lei Lucas",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3919). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/lucas.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3919",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3912",
+      "eventId": "3912",
+      "title": "Curso - Imersão na Rede: Acolher, Conhecer e Conectar",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3912). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/1_22.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3912",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3914",
+      "eventId": "3914",
+      "title": "Curso - Imersão na Rede: Acolher, Conhecer e Conectar",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3914). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/3_7.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3914",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3905",
+      "eventId": "3905",
+      "title": "Design Pedagógico: Criando Recursos Digitais de Aprendizagem",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3905). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/Copia-de-CARD-S-FORMACOES-2026_4.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3905",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3923",
+      "eventId": "3923",
+      "title": "Formação e Alinhamento Pedagógico: Atualizações Pedagógicas",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3923). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/ATUALIZACOES-PEDAGOGICAS-novembro.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3923",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3913",
+      "eventId": "3913",
+      "title": "Curso - Imersão na Rede: Acolher, Conhecer e Conectar",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3913). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/2_14.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3913",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3805",
+      "eventId": "3805",
+      "title": "Formação para Profissionais da Educação Inclusiva",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3805). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/educacao-inclusiva_1.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3805",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3894",
+      "eventId": "3894",
+      "title": "PGE - Programa de Gestão Escolar",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3894). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/Copia-de-CARD-S-FORMACOES-2026-1_1.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3894",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3915",
+      "eventId": "3915",
+      "title": "Formação Para Educadores em Direitos Humanos e Práticas Educativas (Jogo do Letramento)",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3915). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/CARDS-ROTATIVOS-COM-MATHEUS_9.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3915",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3918",
+      "eventId": "3918",
+      "title": "Curso - Programação e Robótica Educacional Usando STEAM",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3918). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/NATALIA.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3918",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3911",
+      "eventId": "3911",
+      "title": "Formação e Alinhamento Pedagógico: G2 e G3",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3911). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/4_4.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3911",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3916",
+      "eventId": "3916",
+      "title": "Intensivão Pedagógico: Avalia RJ, Caminhos Para Avançar na Alfabetização e Fortalecer as Aprendizagens",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3916). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/Copia-de-CARD-S-FORMACOES-2026_10.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3916",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3893",
+      "eventId": "3893",
+      "title": "Descobrindo Campos dos Goytacazes com Os Olhos da História: Formação Continuada em Educação Patrimonial",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3893). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/CARDS-ROTATIVOS-COM-MATHEUS.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3893",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3910",
+      "eventId": "3910",
+      "title": "Formação e Alinhamento Pedagógico: G1",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3910). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/3_6.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3910",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3899",
+      "eventId": "3899",
+      "title": "Antes que Aconteça: Reconhecer Riscos, Prevenir Acidentes e Promover Saúde no Trabalho",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3899). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/4_3.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3899",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    },
+    {
+      "id": "evt-3897",
+      "eventId": "3897",
+      "title": "Fake News Alimentares",
+      "summary": "Publicação oficial sincronizada em tempo real de https://seduct.campos.rj.gov.br/?p=eventos (Evento #3897). Clique para se inscrever com seu e-mail institucional SIPAE.",
+      "category": "Portal de Eventos SEDUCT",
+      "imageUrl": "https://seduct.campos.rj.gov.br/eventos/5_5.jpg",
+      "url": "https://seduct.campos.rj.gov.br/?p=eventos&id=3897",
+      "sipaeOAuthUrl": "https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=online&client_id=858912930727-ga06ipmhacunnhjoq3beot01t007v20r.apps.googleusercontent.com&redirect_uri=https:%2F%2Fseduct.campos.rj.gov.br%2Fredirect.php&state&scope=email%20profile&approval_prompt=auto",
+      "publishedAt": "2026-11-05T12:13:41.650Z",
+      "isNew": true
+    }
+  ],
+  "lastUpdated": "2026-11-05T12:14:58.952Z",
+  "admins": [
+    {
+      "id": "admin-1",
+      "name": "Lu Maraia",
+      "email": "lumaraiapedagoga@gmail.com",
+      "role": "Super Administradora / Coordenação Pedagógica EFEM",
+      "schoolUnit": "SEDUCT / EFEM Campos dos Goytacazes",
+      "permissions": {
+        "canUpdateCourses": true,
+        "canSyncSeduct": true,
+        "canSendAlerts": true,
+        "canManageAdmins": true,
+        "canExportReports": true
+      },
+      "createdAt": "2026-10-01T08:00:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "admin-2",
+      "name": "Administração Geral EFEM",
+      "email": "admin.efem@edu.campos.rj.gov.br",
+      "role": "Administrador do Sistema",
+      "schoolUnit": "SEDUCT Campos dos Goytacazes",
+      "permissions": {
+        "canUpdateCourses": true,
+        "canSyncSeduct": true,
+        "canSendAlerts": true,
+        "canManageAdmins": true,
+        "canExportReports": true
+      },
+      "createdAt": "2026-10-01T08:00:00.000Z",
+      "status": "active"
+    },
+    {
+      "id": "admin-luciana",
+      "name": "Luciana",
+      "email": "luciana.15432@edu.campos.rj.gov.br",
+      "role": "Administradora / Desenvolvedora EFEM",
+      "schoolUnit": "SEDUCT / EFEM Campos dos Goytacazes",
+      "permissions": {
+        "canUpdateCourses": true,
+        "canSyncSeduct": true,
+        "canSendAlerts": true,
+        "canManageAdmins": true,
+        "canExportReports": true
+      },
+      "createdAt": "2026-10-01T08:00:00.000Z",
+      "status": "active"
+    }
+  ],
+  "broadcastAlerts": [
+    {
+      "id": "alert-1791983480231",
+      "title": "Teste de Notificação",
+      "message": "Mensagem de teste",
+      "authorEmail": "lumaraiapedagoga@gmail.com",
+      "createdAt": "2026-10-14T13:11:20.231Z"
+    }
+  ]
+}
